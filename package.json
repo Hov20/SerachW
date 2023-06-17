@@ -1,0 +1,25 @@
+{
+  "name": "web-service",
+  "version": "1.0.0",
+  "description": "searches/checkes english words",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hov20/searchingWords.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hov20/searchingWords/issues"
+  },
+  "homepage": "https://github.com/Hov20/searchingWords#readme"
+}
